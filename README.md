@@ -73,3 +73,7 @@ Podemos acessar no painel inicial do copilot studio e descrever sobre o agente q
 #### Como criar um copilot em branco:
 Podemos acessar, clicando no agente em branco, la nos iremos definir todas duas funcionalidades, e podemos realizar uma edição avançada para determinar o nosso ambiente, que ja foi criado antes.
 
+#### Topicos
+Podemos criar topicos especificos para diferentes fluxos, neles conseguimos criar perguntas, mensagens entre diversas coisas.
+
+
