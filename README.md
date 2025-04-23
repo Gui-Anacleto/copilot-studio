@@ -59,9 +59,6 @@ Apos selecionar o modelo precisamos determinar:
 - **Instruções:**  
   - Exemplo: Você é um assistente que ajuda a responder perguntas sobre viagens seguras tanto domésticas quanto internacionais. Responda de maneira educada.  
 
-- **Prompts iniciais:**  
-  - [Adicionar exemplos de prompts]  
-
 - **Conhecimento:**  
   - Exemplo: Site de Viagens nos EUA
 
